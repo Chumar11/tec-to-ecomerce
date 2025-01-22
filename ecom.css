@@ -104,8 +104,9 @@ body {
 }
 #hero {
   /* margin-top: -26.5px; */
-  background: url("https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/SFp1bALngj0sessj8/videoblocks-attractive-young-black-plus-size-model-wearing-a-black-fishnet-top-and-black-tight-pants-on-white-background-beauty-plus-size-curvy-model_s1wheb9a_thumbnail-1080_01.png");
+  /* background: url("https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/SFp1bALngj0sessj8/videoblocks-attractive-young-black-plus-size-model-wearing-a-black-fishnet-top-and-black-tight-pants-on-white-background-beauty-plus-size-curvy-model_s1wheb9a_thumbnail-1080_01.png"); */
   height: 100vh;
+  background: url("	https://majidkhan3.github.io/Clothes-fabrics.com/bk.jpg");
   width: 100%;
   background-size: cover;
   padding: 0 100px;
@@ -113,6 +114,7 @@ body {
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
+  background-position: center;
 }
 #hero h4 {
   padding-bottom: 15px;
